@@ -15,7 +15,11 @@ npm insatll
 
 ### In the index.js change the following values
 
-- Change the var url value to the above get request value
+- Change the var url value to the above, GET request value
+```jsx
+// Example https://alison.com/courseware/1786/14437/1/1.html
+var url = "https://alison.com/courseware/1786/14437/1/1.html"
+```
 
 ```jsx
 const filepath = './html/10_Modules.txt';
