@@ -1,4 +1,5 @@
 # Alison Web Scraping
+This Script is useful for scraping the modules of alison.com and get the content in a text file.
 
 # Steps to run script
 
